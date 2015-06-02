@@ -7,4 +7,4 @@ gradle
 *iws
 gradlew.bat
 pom.xml
-
+.DS_Store
